@@ -1,2 +1,14 @@
 # mksportsfocus-pages
-HTML page archive and documentation
+
+静态页面记录中心
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
